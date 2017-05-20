@@ -8,4 +8,4 @@ The dataset includes just 128 images. However, by using the VGG16 network with i
 
 ## Notes
 
-I trained this network as part of taking the *fast.ai* course in deep learning. Check it out here: (http://course.fast.ai/)[http://course.fast.ai/]
+I trained this network as part of taking the *fast.ai* course in deep learning. Check it out here: [http://course.fast.ai/](http://course.fast.ai/)
